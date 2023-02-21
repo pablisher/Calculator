@@ -1,0 +1,47 @@
+.display {
+  left: 30%;
+  bottom: 1px;
+  display: block;
+  margin: 0px;
+  height: 108px;
+  width: 130px;
+  background-color: gray;
+  top: 30%;
+  margin-top: -2px;
+}
+.super {
+  position: absolute;
+  display: block;
+  margin-left: auto;
+  height: 150px;
+  width: 300px;
+  border: 5px;
+  background: #a5a2a2;
+  top: 40%;
+  left: 40%;
+}
+.operators {
+  right: 10px;
+  background-color: gray;
+  margin-top: 2px;
+}
+.realy {
+  background-color: #acfcfc;
+  height: 40px;
+  width: 110px;
+  left: 40%;
+  margin: 183px;
+  margin-top: -148px;
+}
+.h {
+  font-size: 12rem;
+  height: 100px;
+  width: 200px;
+}
+/* .body {
+  background: rgba(255, 225, 126, 0.507);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+} */
